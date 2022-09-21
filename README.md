@@ -2,7 +2,7 @@
 
 by &Eacute;. Lutton, S. Al-Maliki, J. Louchet, A. Tonda, and F. P. Vidal
 
-This repository provides a small set of iterative optimisation algorithms to illustrate the paper entitled "*Fine-Grained Cooperative Coevolution in a Single Population:  Between Evolution and Swarm~Intelligence*" submitted to the [**Biennial International Conference on Artificial Evolution (EA-2022)**](https://ea2022.inria.fr).
+This repository provides a small set of iterative optimisation algorithms to illustrate the paper entitled "*Fine-Grained Cooperative Coevolution in a Single Population:  Between Evolution and Swarm Intelligence*" submitted to the [**Biennial International Conference on Artificial Evolution (EA-2022)**](https://ea2022.inria.fr).
 [The paper has been accepted for oral publication](https://ea2022.inria.fr/program.php).
 For this scientific paper, we propose two hybridisation schemes between the Fly Algorithm and PSO:
 
